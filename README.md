@@ -1,18 +1,25 @@
-# SAP Cloud Analytics - Sales Dashboard
+# SAP Analytics Cloud - Sales Dashboard
 
-This is a demo SAP Cloud Analytics dashboard for analyzing sales data.
-
-## Tools Used
-- SAP Analytics Cloud
-- Dummy Sales Data (Excel)
+## Overview
+This dashboard provides a summary of sales data including total revenue, sales per region, sales per product, sales per date.
 
 ## Features
-- Year-wise sales trends
-- Region-wise performance
-- Product category comparison
+- KPI Tile: Total Sales
+- Bar Chart: Sales per Region
+- Bar Chart: Sales per Product
+- Line Chart: Sales per Date
+
+## Technologies
+- SAP Analytics Cloud
+- Data Source: Excel
+- Git for version control
 
 ## Screenshots
-*(Upload screenshots here)*
+![Sales Overview](dashboard-design/dashboard_design1.png)(dashboard-design/dashboard_design2.png)
+
+## Folder Structure
+- `dashboard-design/`: screenshots
+- `data-model/`: Description of the data model used
 
 ## About Me
 I’m a full-stack developer transitioning into SAP analytics, currently building my portfolio.
